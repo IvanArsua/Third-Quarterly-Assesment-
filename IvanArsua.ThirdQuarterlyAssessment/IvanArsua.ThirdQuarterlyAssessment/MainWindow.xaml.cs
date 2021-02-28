@@ -26,6 +26,16 @@ namespace IvanArsua.ThirdQuarterlyAssessment
             InitializeComponent();
             Map.Center = new Microsoft.Maps.MapControl.WPF.Location(12.178100, 122.826624);
             Map.ZoomLevel = 5;
+
+            List<string> municipalities = new List<string>()
+            {
+                "Dinalupihan",
+                "Davao City",
+                "Angeles City",
+                "Brooke's Point",
+                "Olongapo City"
+            };
+            cbo_Municipalities.ItemsSource = municipalities;
         }
         private void Map_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
