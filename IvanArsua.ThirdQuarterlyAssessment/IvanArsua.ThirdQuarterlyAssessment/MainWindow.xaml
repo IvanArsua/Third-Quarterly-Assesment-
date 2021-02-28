@@ -3,10 +3,11 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
         xmlns:local="clr-namespace:IvanArsua.ThirdQuarterlyAssessment"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <m:Map Name="Map" CredentialsProvider="PR8OExAiC8SL8EhpwHOj~9Rgsse1U7PtZqoWNzG4__A~AvJe-Twuy7cuzb2uPK8eb7tco9FJYg8Sp5Vm4v7qmpfNLRCD_e6Tro7w0fxf_4IG" MouseDoubleClick="Map_MouseDoubleClick"/>
     </Grid>
 </Window>
