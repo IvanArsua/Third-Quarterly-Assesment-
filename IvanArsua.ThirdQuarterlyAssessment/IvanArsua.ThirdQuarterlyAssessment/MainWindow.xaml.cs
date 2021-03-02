@@ -1,6 +1,8 @@
 ﻿using Microsoft.Maps.MapControl.WPF;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -36,6 +38,7 @@ namespace IvanArsua.ThirdQuarterlyAssessment
                 "Olongapo City"
             };
             cbo_Municipalities.ItemsSource = municipalities;
+
         }
         private void Map_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
@@ -56,5 +59,6 @@ namespace IvanArsua.ThirdQuarterlyAssessment
             Pushpin pin = sender as Pushpin;
             MessageBox.Show("Lat:" + pin.Location.Latitude + " Long:" + pin.Location.Longitude);
         }
+
     }
 }

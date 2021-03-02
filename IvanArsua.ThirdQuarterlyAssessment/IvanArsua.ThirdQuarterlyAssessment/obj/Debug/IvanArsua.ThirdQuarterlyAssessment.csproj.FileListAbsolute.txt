@@ -16,3 +16,5 @@ C:\Users\Dell\Documents\Major-ICT Activties\Third Quarterly Assesment\IvanArsua.
 C:\Users\Dell\Documents\Major-ICT Activties\Third Quarterly Assesment\IvanArsua.ThirdQuarterlyAssessment\IvanArsua.ThirdQuarterlyAssessment\obj\Debug\IvanArsua.ThirdQuarterlyAssessment.csproj.CopyComplete
 C:\Users\Dell\Documents\Major-ICT Activties\Third Quarterly Assesment\IvanArsua.ThirdQuarterlyAssessment\IvanArsua.ThirdQuarterlyAssessment\obj\Debug\IvanArsua.ThirdQuarterlyAssessment.exe
 C:\Users\Dell\Documents\Major-ICT Activties\Third Quarterly Assesment\IvanArsua.ThirdQuarterlyAssessment\IvanArsua.ThirdQuarterlyAssessment\obj\Debug\IvanArsua.ThirdQuarterlyAssessment.pdb
+C:\Users\Dell\Documents\Major-ICT Activties\Third Quarterly Assesment\IvanArsua.ThirdQuarterlyAssessment\IvanArsua.ThirdQuarterlyAssessment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\Major-ICT Activties\Third Quarterly Assesment\IvanArsua.ThirdQuarterlyAssessment\IvanArsua.ThirdQuarterlyAssessment\bin\Debug\Newtonsoft.Json.xml

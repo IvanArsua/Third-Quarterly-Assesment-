@@ -1,0 +1,47 @@
+[
+   {
+      "name":"Dinalipihan",
+      "lat":"14.8781",
+      "long":"120.4546",
+      "province":"Bataan",
+      "postCode":"2110",
+      "description":"Dinalupihan, officially the Municipality of Dinalupihan (Tagalog: Bayan ng Dinalupihan; Kapampangan: Balen ning Dinalupihan), is a 1st class municipality in the province of Bataan, Philippines. According to the 2015 census, it has a population of 106,371 people.",
+      "region":"Region III"
+   },
+   {
+      "name":"Davao City",
+      "lat":"7.130099278801634",
+      "long":"125.42804470063739",
+      "province":"Davao del Sur",
+      "postCode":"8000",
+      "description":"Davao City, officially the City of Davao (Cebuano: Dakbayan sa Dabaw; Tagalog: Lungsod ng Davao), is a 1st class highly urbanized city in the island of Mindanao, Philippines. The city has a total land area of 2,443.61 km2 (943.48 sq mi), making it the largest city in the Philippines in terms of land area. It is the third-most populous city in the Philippines after Quezon City and Manila, and the most populous in Mindanao. [9] As of 2020, the city has a total population of 1,825,450.",
+      "region":"Region XI"
+   },
+   {
+      "name":"Angeles City",
+      "lat":"15.160460231120194",
+      "long":"120.60047399746576",
+      "province":"Pampanga",
+      "postCode":"2009",
+      "description":"Angeles ([ˈaŋhɛlɛs]), officially the City of Angeles (Kapampangan: Lakanbalen ning Angeles; Tagalog: Lungsod ng Angeles), is a 1st class highly urbanized city in the province of Pampanga, where it is geographically situated but remains politically independent. It is located in the region of Central Luzon, Philippines. According to the 2015 census, it has a population of 411,634 people.",
+      "region":"Region III"
+   },
+   {
+      "name":"Brooke's Point",
+      "lat":"8.827339952813013",
+      "long":"117.83041789939554",
+      "province":"Palawan",
+      "postCode":"5305",
+      "description":"Brooke's Point, officially the Municipality of Brooke's Point (Tagalog: Bayan ng Brooke's Point), is a 1st class municipality in the province of Palawan, Philippines. According to the 2015 census, it has a population of 66,374 people.",
+      "region":"Region IV-B"
+   },
+   {
+      "name":"Olongapo City",
+      "lat":"14.834821290849918",
+      "long":"120.2820978394843",
+      "province":"Zambales",
+      "postCode":"2200",
+      "description":"Olongapo, officially the City of Olongapo (Tagalog: Lungsod ng Olongapo; Ilocano: Siudad ti Olongapo; Sambal: Siyodad nin Olongapo; Kapampangan: Lakanbalen ning Olongapo; Pangasinan: Siyudad na Olongapo), is a 1st class highly urbanized city in Central Luzon (Region III), Philippines. Located in the province of Zambales but governed independently from the province, it has a population of 233,040 people according to the 2015 census.",
+      "region":"Region III"
+   }
+]
