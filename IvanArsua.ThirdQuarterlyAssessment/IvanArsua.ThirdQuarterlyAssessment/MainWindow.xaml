@@ -6,9 +6,10 @@
         xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
         xmlns:local="clr-namespace:IvanArsua.ThirdQuarterlyAssessment"
         mc:Ignorable="d"
-        Title="MainWindow" Height="522" Width="1072">
-    <Grid Margin="0,0,2,0">
-        <m:Map Name="Map" CredentialsProvider="PR8OExAiC8SL8EhpwHOj~9Rgsse1U7PtZqoWNzG4__A~AvJe-Twuy7cuzb2uPK8eb7tco9FJYg8Sp5Vm4v7qmpfNLRCD_e6Tro7w0fxf_4IG" MouseDoubleClick="Map_MouseDoubleClick" Margin="10,10,378,10"/>
-        <ComboBox x:Name="cbo_Municipalities" HorizontalAlignment="Left" Height="28" Margin="716,29,0,0" VerticalAlignment="Top" Width="318"/>
+        Title="MainWindow" Height="600" Width="1072">
+    <Grid Margin="0,0,2,33">
+        <m:Map Name="Map" CredentialsProvider="PR8OExAiC8SL8EhpwHOj~9Rgsse1U7PtZqoWNzG4__A~AvJe-Twuy7cuzb2uPK8eb7tco9FJYg8Sp5Vm4v7qmpfNLRCD_e6Tro7w0fxf_4IG" MouseDoubleClick="Map_MouseDoubleClick" Margin="10,29,378,0" Center="37.806029,-122.407007"/>
+        <ComboBox x:Name="cbo_Municipalities" HorizontalAlignment="Left" Height="28" Margin="716,29,0,0" VerticalAlignment="Top" Width="318" SelectionChanged="cbo_Municipalities_SelectionChanged"/>
+        <Label x:Name="lblDescription" Content="" HorizontalAlignment="Left" Height="374" Margin="716,76,0,0" VerticalAlignment="Top" Width="318"/>
     </Grid>
 </Window>
